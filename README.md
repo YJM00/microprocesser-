@@ -167,7 +167,7 @@ PG2: 3색 LED BLUE
 <img width="288" height="359" alt="image" src="https://github.com/user-attachments/assets/b881fb32-03c0-46c6-a905-edf44913e173" />
 
    
------
+----
 
 ### 개발 환경
 
@@ -179,6 +179,7 @@ PG2: 3색 LED BLUE
 ---
 
 ### 시제품 사진
+
  <img width="643" height="408" alt="image" src="https://github.com/user-attachments/assets/42f9d67d-4999-48b7-80bb-9bfbf783d541" />
  
 <img width="463" height="303" alt="image" src="https://github.com/user-attachments/assets/168cf465-cc63-426f-940a-ef564362968e" />
