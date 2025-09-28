@@ -164,6 +164,8 @@ PG2: 3색 LED BLUE
 
 7. AA배터리
 
+<img width="288" height="359" alt="image" src="https://github.com/user-attachments/assets/b881fb32-03c0-46c6-a905-edf44913e173" />
+
    
 -----
 
