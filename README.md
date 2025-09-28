@@ -134,39 +134,7 @@ PG1: 3색 LED GREEN
 
 PG2: 3색 LED BLUE
 
----
 
-### 부품
-
-1.AVR 나노
-
-<img width="358" height="254" alt="image" src="https://github.com/user-attachments/assets/6fbe5f1a-0d53-44b7-862b-b1076b8820e8" />
-
-2. 초음파 센서(HC-SR04)
-   
-<img width="263" height="160" alt="image" src="https://github.com/user-attachments/assets/f40c481b-c8ea-4c65-b924-e2a6596e15d0" />
-
-3.서보 모터(SG90)
-
-<img width="204" height="197" alt="image" src="https://github.com/user-attachments/assets/24ad7a69-a645-4845-84f9-226a39a12aae" />
-
-4. 3색 LED
-
-<img width="185" height="172" alt="image" src="https://github.com/user-attachments/assets/3dc477d4-1d35-487a-b368-1939c207a1ea" />
-
-5.i2c LCD 16x2
-
-<img width="312" height="216" alt="image" src="https://github.com/user-attachments/assets/cc6ed8f6-b54d-4db0-9f69-cb728daa275f" />
-
-6. 만능기판
-
-<img width="558" height="383" alt="image" src="https://github.com/user-attachments/assets/9181ee50-6b66-4cd3-bcfe-3b81a11dbc6a" />
-
-7. AA배터리
-
-<img width="288" height="359" alt="image" src="https://github.com/user-attachments/assets/b881fb32-03c0-46c6-a905-edf44913e173" />
-
-   
 ----
 
 ### 개발 환경
