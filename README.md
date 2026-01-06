@@ -98,41 +98,8 @@ PG2: 3색 LED BLUE
  스마트 쓰레기통은 물체를 감지해 자동으로 뚜껑을 열고 닫을 수 있으며 쓰레기통 내부의 용량이 얼마나 찼는지도 한눈에 알 수 있다. 
  이러한 기능들을 구현하기 위해 한 학기 동안 마이크로프로세서 실험 수업을 통해 배운 내용을 정확히 이해하고 제품의 적절한 곳에 적용 및 응용해 스마트 쓰레기통을 제작해 나간다.
 
- ---
+
  
- ### HW 블록도
- <img width="618" height="197" alt="image" src="https://github.com/user-attachments/assets/b4fdc2a4-34be-4242-9af4-d89adede8c33" />
-
- ---
-
- ### SW 흐름도
- <img width="337" height="548" alt="image" src="https://github.com/user-attachments/assets/34bfec95-7b0a-43e6-94e9-877eabfe412c" />
- <img width="291" height="325" alt="image" src="https://github.com/user-attachments/assets/f2b5b819-45c6-4621-901a-29c584db1508" />
-
----
-
-### 회로도
-<img width="636" height="353" alt="image" src="https://github.com/user-attachments/assets/bbda19f6-37af-4567-822d-ec4f4d901683" />
-
-PE4: 전면 초음파 센서 Trigger
-
-PE5: 전면 초음파 센서 Echo
-
-PE6: 내부 초음파 센서 Trigger
-
-PE7: 내부 초음파 센서 Echo
-
-PB6: 서보 모터
-
-PD0: LCD Display(I2C 방식) SCL
-
-PD1: LCD Display(I2C 방식) SDA
-
-PG0: 3색 LED RED
-
-PG1: 3색 LED GREEN
-
-PG2: 3색 LED BLUE
 
 
 ----
